@@ -8,7 +8,7 @@ export function renderCheckoutHeader() {
   const checkoutHTML = `
     <div class="header-content">
     <div class="checkout-header-left-section">
-      <a href="amazon.html">
+      <a href="index.html">
         <img class="amazon-logo" src="images/amazon-logo.png">
         <img class="amazon-mobile-logo" src="images/amazon-mobile-logo.png">
       </a>
